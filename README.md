@@ -46,11 +46,11 @@ b = '"Hello"'
 
 # Identation
 
-Use two spaces (usually).
+Use four spaces (usually). I use two spaces if it can improve readability.
 
 ```
 if a is None:
-  print("a is None")
+    print("a is None")
 ```
 
 # Align in a readable way
