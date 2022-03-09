@@ -72,7 +72,7 @@ def hello_world(
 
 # Whitespace
 
-Always add at least one whitespace before and and one whitespace after an operator, including `=`.
+Always add at least one whitespace before an operator, and one whitespace after an operator, including `=`.
 
 ```
 3 + 2
